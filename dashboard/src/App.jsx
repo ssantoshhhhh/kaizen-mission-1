@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return(
     <>
-    <div ClassName="App">
+    <div ClassName="min-h-screen bg-gray-100">
       <ProductDashboard/>
     </div>
     </>

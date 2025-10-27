@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "name": "Ultra HD Monitor",
+    "category": "Electronics",
+    "price": 18999.99,
+    "stock": 15
+  },
+  {
+    "id": 102,
+    "name": "Ergonomic Keyboard",
+    "category": "Electronics",
+    "price": 3499.5,
+    "stock": 120
+  },
+  {
+    "id": 103,
+    "name": "Noise-Cancel Earbud Audio",
+    "category": "Electronics",
+    "price": 5999,
+    "stock": 75
+  },
+  {
+    "id": 104,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 24999,
+    "stock": 8
+  },
+  {
+    "id": 105,
+    "name": "Stainless Steel Flask",
+    "category": "Kitchen",
+    "price": 799,
+    "stock": 200
+  },
+  {
+    "id": 106,
+    "name": "Running Sneakers",
+    "category": "Footwear",
+    "price": 4999,
+    "stock": 50
+  },
+  {
+    "id": 107,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 1299,
+    "stock": 180
+  },
+  {
+    "id": 108,
+    "name": "Smartwatch Pro",
+    "category": "Electronics",
+    "price": 15999,
+    "stock": 40
+  },
+  {
+    "id": 109,
+    "name": "Yoga Block",
+    "category": "Fitness",
+    "price": 599,
+    "stock": null
+  },
+  {
+    "id": 110,
+    "name": "Desk Plant",
+    "category": "Home Decor",
+    "price": 999,
+    "stock": 90
+  }
+]
