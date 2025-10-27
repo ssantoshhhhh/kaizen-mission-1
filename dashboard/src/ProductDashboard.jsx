@@ -45,7 +45,7 @@ const ProductDashboard = () => {
               key={p.id}
               className="bg-white rounded-2xl shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden group"
             >
-              {/* Product Image (optional) */}
+              {/* Product Image (optional)
               {p.image ? (
                 <img
                   src={p.image}
@@ -56,7 +56,7 @@ const ProductDashboard = () => {
                 <div className="w-full h-48 bg-gray-200 flex items-center justify-center text-gray-500">
                   No Image
                 </div>
-              )}
+              )} */}
 
               {/* Product Info */}
               <div className="p-5">
